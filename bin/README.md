@@ -31,6 +31,7 @@ build.sh
 --mvn clean package
 
 run-forever.sh
---nohup java -jar xxxxxxx
+--nohup java -jar 
+hi eveyone
 --save new PID in /tmp/app.pid
 
